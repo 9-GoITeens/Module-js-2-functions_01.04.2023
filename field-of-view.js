@@ -10,7 +10,7 @@
 //   return a + b;
 // }
 
-// console.log(sum());
+// console.log(sum());//150
 // .....................
 
 // let a = 5;
@@ -20,7 +20,7 @@
 //   return a + b;
 // }
 
-// console.log(sum());
+// console.log(sum());//15
 // ......................
 
 // let a = 5;
@@ -30,7 +30,7 @@
 //   return a + b;
 // }
 
-// console.log(sum(100, 300));
+// console.log(sum(100, 300));//400
 
 // ................
 
@@ -40,15 +40,15 @@
 // function sum() {
 //   let a = 10;
 
-//   function sum2() {
-//     let a = 30;
-//     return a + b;
-//   }
+//   //   function sum2() {
+//   //     let a = 30;
+//   //     return a + b;
+//   //   }
 
 //   return a + b;
 // }
 
-// console.log(sum());
+// console.log(sum());//20
 
 // ...................
 
@@ -60,10 +60,10 @@
 
 //   function sum2() {
 //     let a = 30;
-//     return a + b;
+//     return a + b;//30+10=40
 //   }
 
-//   return a + b;
+//   return a + b;//40+10=50
 // }
 
 // console.log(sum());
